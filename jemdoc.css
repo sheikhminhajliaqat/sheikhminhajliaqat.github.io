@@ -66,15 +66,15 @@ pre, tt {
 a, a > tt {
 	color: #224b8d;
 	text-decoration: none;
-	target-name:new;
-	target-new:tab;
+	/*target-name:new;
+	target-new:tab;*/
 }
 
 a {
 	color: #0a1374;
 	text-decoration: none;
-	target-name:new;
-	target-new:tab;
+	/*target-name:new;
+	target-new:tab;*/
 }
 
 
@@ -235,7 +235,7 @@ ul {
 
 li::before {content: "\2022"; color: black;
   /*display: inline-block; width: 1em;*/
-  /*margin-left: -1em*/
+  /*margin-left: -1em
 }
 */
 p + ul, p + ol {
