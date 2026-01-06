@@ -8,7 +8,7 @@ html, body {
 }
 
 #navbar {
-  position: flex;
+  position: fixed;
   min-width: 290px;
   top: 0px;
   left: 0px;
